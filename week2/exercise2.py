@@ -5,7 +5,7 @@ Go through it and change it until it runs.
 """
 import string
 
-det getLetter(index):
+def getLetter(index):
     alphabet = string.ascii_lowercase + " "
     return alphabet[index]
 
@@ -25,4 +25,4 @@ def week2exersise2();
 
 
 if __name__ = = "__main__":
-    prin(week2exersise2())
+    print(week2exersise2())

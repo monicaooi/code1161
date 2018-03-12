@@ -1,1 +1,10 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+Everything is unclear to be honest. I don't even know what I am doing and I don't even know what I don't know. I can say though that I am honestly trying, I understood what the tutors have said when I asked for help in doing these exercises but when it comes to the next question, I really don't know what to do. I do not see any relationships between these questions and I can't put what I have learnt in the previous question and apply to the next question and the rest of the exercise. The moment I think I get it, it just backfires and I am back to square one. 
+
+I have looked up video tutorials and research explanations but it doesn't seem to be working on these things. I mean what does def even mean? how do I make it to write stars? How do I even comment? These are the type of questions that really makes me uneasy about this whole class and it sucks,but I am trying to stay proactive and keep working. 
+
+I really hope at the end of this semester at least, I will have learnt something that will stick with me. I am just really annoyed that I don't understand this and I can't make codes work the way they should. 
+
+What I have learnt though is that coding is logical, like maths I guess- the equations are the codes to solve the questions. But that is it. I've got nothing else, and I'm not sure if the watching the video are helping me at all...
+
+Would the tutors be able to teach in class in the front while we all watch instead of all of them helping each single student and repeating themselves again to another student? I feel this will get the class on the same page and in addition to using computers on the screen, utilise the whiteboard too? It's just this class is really hectic and crazy during tutorials \_00_/ 

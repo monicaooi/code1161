@@ -10,14 +10,15 @@ import platform
 
 # I think this will print "hello! Let's get started" by calling the print function.
 print("hello! Let's get started")  # it printed "hello! Let's get started"
-
-some_words = ['what', 'does', 'this', 'line', 'do', '?']
-
+# I think the function will print "what, does, this, line, do,?" when you ask what some_words is because its given the list
+some_words = ['what', 'does', 'this', 'line', 'do', '?'] #it printed "what, does, this, line, do,?"
+# I think there will be an error because there is 
 for word in some_words:
     print(word)
-
+     #it printed "word"
+# i think it will not print because "x" is not in the list 
 for x in some_words:
-    print(x)
+    print(x) 
 
 print(some_words)
 
