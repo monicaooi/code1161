@@ -47,15 +47,12 @@ def loops_1a():
     return a list of 10 items, each one a string with exacly one star in it.
     E.g.: ['*', '*', '*', '*', '*', '*', '*', '*', '*', '*']
     """
-    def pypart(n):
-        print("* ",end="")
-
+    i = range
+    for i in range (10):
+        print ("*")
         
 
-
-
-
-
+    
 
 def loops_1c(number_of_items=5, symbol="#"):
     """Respond to variables.
@@ -65,9 +62,8 @@ def loops_1c(number_of_items=5, symbol="#"):
     a string with exacly one symbol in it.
     E.g.: ['#', '#', '#', '#', '#']
     """
-    number_of_items = 5
-    symbol = "#"
-pass
+    for number_of_items in range (5):
+        print ("#")
 
 
 
@@ -205,7 +201,10 @@ def loops_7():
     This is a hard problem. Use lots of experimentation and draw
     lots of diagrams!
     """
-    pass
+j = 9 #variable used for printing spaces
+for i in range (1,10,2) : #for loop used for printing stars
+        print (' ' * j + 1 * '*')
+        j = j - 1
 
 
 
