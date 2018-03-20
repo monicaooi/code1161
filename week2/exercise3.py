@@ -62,7 +62,7 @@ def loops_1c(number_of_items=5, symbol="#"):
     E.g.: ['#', '#', '#', '#', '#']
     """
     a_list = []
-    for i in range (number_of_items)
+    for i in range (number_of_items):
         a_list.append(symbol)
     return a_list
 
@@ -91,7 +91,10 @@ def loops_2():
         list_2 = []
         for j in range (10)
             list_2.append("*")
-    list_1.append (list_2)
+        list_1.append(list_2)
+    return list_1
+            
+    
 
 
 
@@ -116,9 +119,15 @@ def loops_3():
     TIP: notice that this needs to to return strings of numbers,
          so call str(number) to cast.
     """
-    pass
-
-
+    outer_list = []
+    for i in range (10):
+        inner_list = []
+        for j in range (10):
+            inner_list.append(stri(i))
+            outer_list.append (inner_list)
+        return outer_list
+    
+        
 def loops_4():
     """Make a block of numbers that rises left to right.
 
@@ -136,8 +145,8 @@ def loops_4():
       ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     ]
     """
-    for row in range (10)
-        print(*range(10), sep=', ')
+     def numbers = [0,1,2,3,4,5,6,7,8,9]
+     print numbers 10 times
 
 
 
@@ -186,7 +195,11 @@ def loops_6():
     You can use a variable.
     TIP: look out for the starting condition.
     """
-    pass
+    number = int(input("10"))
+    for i in range (1,num+1):
+        for j in range (1,i+1):
+            print [1:9]
+            print()
 
 
 def loops_7():
@@ -210,10 +223,14 @@ def loops_7():
     This is a hard problem. Use lots of experimentation and draw
     lots of diagrams!
     """
-j = 9 #variable used for printing spaces
-for i in range (1,10,2) : #for loop used for printing stars
-        print (' ' * j + 1 * '*')
-        j = j - 1
+for x in range(5):
+    inner_list = []
+    for i in range(9):
+        if abs(1-4) <= x:
+    else:
+        inner_list.append(' ')
+    outer_list.append(inner_list)
+    return outer_list
 
 
 

@@ -110,6 +110,8 @@ missedLetters = ''
 correctLetters = ''
 secretWord = getRandomWord(words)
 gameIsDone = False
+leaderboard = []
+player_name = input("enter you name")
 while True:
     displayBoard(HANGMANPICS, missedLetters, correctLetters, secretWord)
     # Let the player type in a letter.
@@ -139,6 +141,7 @@ while True:
             gameIsDone = True
     # Ask the player if they want to play again (but only if the game is done).
     if gameIsDone:
+        score
         if playAgain():
             missedLetters = ''
             correctLetters = ''
