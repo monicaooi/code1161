@@ -54,7 +54,8 @@ def stubborn_asker(low, high):
     """
     #this is asking me to return a number within a range
     a_list = []
-    for stubborn_asker
+    for stubborn_asker(low, high)
+
     pass
 
 
@@ -65,6 +66,10 @@ def not_number_rejector(message):
     "six", "8!") then throw it out and ask for an actual number.
     When you do get a number, return it.
     """
+    #i think this is asking to give a number within a range, and if its outside the range print yes/correct or something like that and else prnt that its not right or that it wont go through. 
+    #something that i found on the internet is one that related to voting amd m18
+
+    
     pass
 
 
