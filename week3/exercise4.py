@@ -29,7 +29,23 @@ def binary_search(low, high, actual_number):
     """
 
     return {"guess": guess, "tries": tries}
-
+    
+def binarySearch(alist, item):
+	    first = 0
+	    last = len(alist)-1
+	    found = False
+	
+	    while first<=last and not found:
+	        midpoint = (first + last)//2
+	        if alist[midpoint] == item:
+	            found = True
+	        else:
+	            if item < alist[midpoint]:
+	                last = midpoint-1
+	            else:
+	                first = midpoint+1
+	
+	    return found
 
 if __name__ == "__main__":
     print(binary_search(1, 100, 5))

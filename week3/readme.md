@@ -6,3 +6,5 @@ for i in range (1,10,2) : #for loop used for printing stars
         print (' ' * j + 1 * '*')
         j = j - 1
 learnt this off the internet to make the pyramid. I probably still dont understand it. 
+
+##################################################################

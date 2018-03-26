@@ -27,8 +27,12 @@ def lone_ranger(start, stop, step):
 
     Look up the docs for range() and wrap it in a 1:1 way
     """
-    pass
-
+    #duplicating the functionallity = 2x
+    a_list = []
+    for lone_ranger(10):
+        a_list.append(2 * lone_ranger):
+    return a_list
+#this makes sense to me, because i am asking it to return the range numbers to be mulitplied by 2.
 
 def two_step_ranger(start, stop):
     """Make a range that steps by 2.
@@ -36,8 +40,11 @@ def two_step_ranger(start, stop):
     Sometimes you want to hide complexity.
     Make a range function that always has a step size of 2
     """
-    pass
-
+    #this is asking me to return numbers like this x + 2
+    a_list = []
+    for two_step_ranger (2, 10)
+        a_list.append(2 + two_step_ranger)
+    return a_list
 
 def stubborn_asker(low, high):
     """Ask for a number between low and high until actually given one.
@@ -45,6 +52,9 @@ def stubborn_asker(low, high):
     Ask for a number, and if the response is outside the bounds keep asking
     until you get a number that you think is OK
     """
+    #this is asking me to return a number within a range
+    a_list = []
+    for stubborn_asker
     pass
 
 
