@@ -89,7 +89,7 @@ def loops_2():
     list_1 = []
     for i in range (10):
         list_2 = []
-        for j in range (10)
+        for j in range (10):
             list_2.append("*")
         list_1.append(list_2)
     return list_1
@@ -123,7 +123,7 @@ def loops_3():
     for i in range (10):
         inner_list = []
         for j in range (10):
-            inner_list.append(stri(i))
+            inner_list.append(str(i))
             outer_list.append (inner_list)
         return outer_list
     
@@ -145,8 +145,13 @@ def loops_4():
       ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     ]
     """
-     def numbers = [0,1,2,3,4,5,6,7,8,9]
-     print numbers 10 times
+    outer_list = []
+    for i in range (10):
+        inner_list = []
+        for j in range (10):
+            inner_list.append(str(i))
+            outer_list.append (inner_list)
+        return outer_list
 
 
 
@@ -172,7 +177,15 @@ def loops_5():
         "There are {} green bottles".format(8)
     you'll come to see the pros and cons of each over time.
     """
-    pass
+    outer_list = []
+    for i in range (5):
+        inner_list = []
+        for j in range (10):
+            inner_list.append(str(i))
+            outer_list.append (inner_list)
+        return outer_list
+
+
 
 
 def loops_6():
@@ -196,9 +209,9 @@ def loops_6():
     TIP: look out for the starting condition.
     """
     number = int(input("10"))
-    for i in range (1,num+1):
+        for i in range (1,num+1):
         for j in range (1,i+1):
-            print [1:9]
+            print([1:9])
             print()
 
 
@@ -223,13 +236,14 @@ def loops_7():
     This is a hard problem. Use lots of experimentation and draw
     lots of diagrams!
     """
-for x in range(5):
-    inner_list = []
-    for i in range(9):
-        if abs(1-4) <= x:
-    else:
-        inner_list.append(' ')
-    outer_list.append(inner_list)
+    for x in range(5):
+        inner_list = []
+        for i in range(9):
+            if abs(i-4) <= x:
+                inner_list.append('*')
+            else:
+                inner_list.append(' ')
+        outer_list.append(inner_list)
     return outer_list
 
 
