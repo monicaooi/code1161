@@ -41,6 +41,12 @@ def get_some_details():
             "password":       None,
             "postcodePlusID": None
             }
+Robert_Berry = {'first_name': 'robert', 'last_name': 'berry', 'username': 'lazyduck408', 'password': 'jokers', 'postcode': 69217, 'id': 04242023 }
+print(Robert_Berry['last_name'])
+print(Robert_Berry['password'])
+
+
+
 
 
 
