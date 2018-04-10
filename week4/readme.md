@@ -1,1 +1,5 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+Honestly this is my worst class and I hate it. I've tried to be patient and understanding but it isn't getting to my head, futhermore its hard to understand the lecturer. I doesn't feel great to struggle because I know I'm going to fail if I don't get any of these done but how can I if I don't understand what its asking or what I'm suppose to do. I've done Code academy but I'm not sure if its helping and I have a cheat sheet which its quite handy in understanding the language in Python. But it sucks becuase I try but it doesn't work and then I try again and it still doesn't work and again and again which I get really frustrated. Sure I can ask on the question website but then I don't even know where to begin. I feel like where I am right now, the knowledge that I have in Python, in these 4/5 weeks is the print function, the lists, and dictionaries, if statemenets and only if they work by themselves and not with other types of function.  
+
+
+

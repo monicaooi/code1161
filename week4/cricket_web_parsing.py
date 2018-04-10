@@ -20,4 +20,4 @@ def get_scores():
 now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 print(f"At {now}, the latest scores are:")
 get_scores()
-
+#I don't understand to be honest and I don't know why.

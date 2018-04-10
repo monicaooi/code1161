@@ -85,8 +85,9 @@ def wordy_pyramid():
     ]
     TIP: to add an argument to a URL, use: ?argName=argVal e.g. &minLength=
     """
-    pass
-
+    import from  http://api.wordnik.com/v4/words.json/randomWords?api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5&minLength=10&maxLength=10&limit=1 ?argName=argVal e.g. &minLength=
+    wordy_pyramid (from import)
+    
 
 def wunderground():
     """Find the weather station for Sydney.
@@ -128,7 +129,23 @@ def diarist():
     TIP: remember to commit 'lasers.pew' and push it to your repo, otherwise
          the test will have nothing to look at.
     """
-    pass
+    import from gcode
+        if laser = on:
+            print "M10"
+            else 
+                print "P1"
+        answer = a_number
+        a_number = () #the answer
+        list=laser.pew[a_number][0,1,2,3,4,5,6,7,8,9]
+    return laser.pew
+
+
+
+
+
+
+
+        
 
 
 if __name__ == "__main__":
