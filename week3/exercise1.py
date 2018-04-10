@@ -56,8 +56,11 @@ def stubborn_asker(low, high):
     a_list = []
     for stubborn_asker(low, high)
 
-    pass
-
+    stubborn_asker[1,2,43,6,768,2,34,67,8,2]
+    lowest = min(stubborn_asker)
+    highest = max(stubborn_asker)
+    return lowest
+    return highest
 
 def not_number_rejector(message):
     """Ask for a number repeatedly until actually given one.
@@ -69,8 +72,9 @@ def not_number_rejector(message):
     #i think this is asking to give a number within a range, and if its outside the range print yes/correct or something like that and else prnt that its not right or that it wont go through. 
     #something that i found on the internet is one that related to voting amd m18
 
-    
-    pass
+    import from not_number_rejector
+    not_number_rejector[]
+    return number from not_number_rejector
 
 
 def super_asker(low, high):
@@ -79,7 +83,12 @@ def super_asker(low, high):
     Combine stubborn_asker and not_number_rejector to make a function
     that does it all!
     """
-    pass
+    super_asker[]
+    return super_asker with a number
+    number = x
+    x= super_asker []
+
+
 
 
 if __name__ == "__main__":
