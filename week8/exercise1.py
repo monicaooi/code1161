@@ -129,7 +129,9 @@ def make_filler_text_dictionary():
     """
     
     import requests
-    
+    url = "http://api.wordnik.com/v4/words.json/randomWords?api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5&minLength=3&maxLength=10&limit=1"
+    dict = {}
+
 
 
 def random_filler_text(number_of_words=200):
@@ -163,8 +165,10 @@ def fast_filler(number_of_words=200):
     into and out of the file. Be careful when you read it back in, it'll
     convert integer keys to strings.
     """
-    pass
-
+    import os 
+    import jason
+    def dict_racy_words. 
+        
 
 if __name__ == '__main__':
     print((greet()))
